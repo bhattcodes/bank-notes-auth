@@ -13,7 +13,7 @@ data set link: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-da
 ## Steps to run this on your machine
 
 - Download docker desktop on machine </br>
-- Pull this repo </br>
+- Fork this repo then Pull the repo </br>
 - `cd ..` to the pulled repo
 - Execute this code to build an image 
   `docker build --tag python-docker .`</br>
