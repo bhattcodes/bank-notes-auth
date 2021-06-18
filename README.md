@@ -1,4 +1,4 @@
-# docker ML
+# Bank Note Authenticator
 Docker Hub link : https://hub.docker.com/repository/docker/abxwolf/dockerhub/general </br>
 data set link: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
 
